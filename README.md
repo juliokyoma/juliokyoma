@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/LPbp.mp4)]()
+
 <h1 align="center">Hi, I'm Julio</h1>
 <h3 align="center">I'm on a journey to become a game developer</h3>
 
