@@ -4,9 +4,9 @@
 
 -  I’m currently working on [Tiny-Knight-Runner-Project](https://github.com/juliokyoma/Tiny-Knight-Runner-Project)
 
--  I’m currently learning **C# for Unity**
+-  I’m currently learning **C# for Unity2D**
 
--  I’m looking to collaborate on **Unity projects**
+-  I’m looking to collaborate on **Unity2D projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
