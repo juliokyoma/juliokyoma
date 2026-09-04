@@ -1,12 +1,11 @@
 
 <h1 align="center">Hello there!</h1>
-<h3 align="center">I'm on a journey to become a game developer</h3>
 
 -  I’m currently working on [Unity-Skeleton-Game](https://github.com/juliokyoma/Unity-Skeleton-Game.git)
 
--  I’m currently learning **C# for Unity2D**
+-  I’m currently learning **Godot**
 
--  I’m looking to collaborate on **Unity2D projects**
+-  I’m looking to collaborate on **Godot projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
